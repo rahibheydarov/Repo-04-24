@@ -92,7 +92,9 @@ public class realEstate {
                 propertyPrice+=5000;
             }
         System.out.println("Market report has been generated.");
-        System.out.println("Your estimate market price is: " + propertyPrice);
+        System.out.println("Your estimate market price issaving : " + propertyPrice);
+
+
 
         }
 
